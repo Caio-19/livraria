@@ -1,0 +1,22 @@
+{
+    "livros": [
+        {
+            "id": 1,
+            "nome":"Javascript",
+            "autor": "João Ecma da Silva",
+            "valor": 38.60
+        },
+        {
+            "id": 2,
+            "nome":"Lógica de Programação",
+            "autor": "Maria O.O. Pereira",
+            "valor": 289.99            
+        },
+        {
+            "id": 3,
+            "nome":"Banco de Dados",
+            "autor": "Clara Tupla Carvalho",
+            "valor": 176.84
+        }
+    ]
+}
